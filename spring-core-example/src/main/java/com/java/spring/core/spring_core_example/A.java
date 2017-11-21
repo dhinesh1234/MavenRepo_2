@@ -4,6 +4,7 @@ public class A {
 	public int m()
 	{
 		System.out.println("actual business logic");
+		System.out.println("actual business logic 222222");
 		return 2;
 	}
 }
