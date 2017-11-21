@@ -5,6 +5,7 @@ public class A {
 	{
 		System.out.println("actual business logic");
 		System.out.println("actual business logic 222222");
+		System.out.println("actual business logic 33333");
 		return 2;
 	}
 }
